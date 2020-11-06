@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["OSoYh"]); }
+
+__d("TetraThreadListHoverButtonDropdownMenuIcons.bs",["ix","fbicon"],(function(a,b,c,d,e,f,g){"use strict";c=(a=b("fbicon"))._(g("477820"),20);d={icon:c};e=a._(g("532356"),20);b={icon:e};c=a._(g("652791"),20);e={icon:c};c={On:b,Off:e};b=a._(g("558623"),20);e={icon:b};b=a._(g("558164"),20);b={icon:b};var h=a._(g("493176"),20);h={icon:h};var i=a._(g("577043"),20);i={icon:i};var j=a._(g("483829"),20);j={icon:j};a=a._(g("505620"),20);g={icon:a};f.MarkAsReadOrUnread=d;f.MuteConversation=c;f.ViewProfile=e;f.AudioCall=b;f.VideoChat=h;f.HideConversation=i;f.DeleteConversation=j;f.AppMessenger=g}),null);

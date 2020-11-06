@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["awWK\/"]); }
+
+__d("GroupsCometSocialLearningConsumptionRootQuery$Parameters",[],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:"3473002612767289",metadata:{relayPreloadable:!0},name:"GroupsCometSocialLearningConsumptionRootQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("GroupsCometSocialLearningConsumptionRoot.entrypoint",["JSResource","GroupsCometSocialLearningConsumptionRootQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";a={getPreloadProps:function(a){a=a.routeProps.groupID;return{queries:{queryReference:{parameters:b("GroupsCometSocialLearningConsumptionRootQuery$Parameters"),variables:{groupID:a}}}}},root:b("JSResource")("GroupsCometSocialLearningConsumptionRoot.react").__setRef("GroupsCometSocialLearningConsumptionRoot.entrypoint")};e.exports=a}),null);

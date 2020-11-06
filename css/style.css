@@ -1,0 +1,14 @@
+.breadcrumb > li + li:before {
+  padding: 0 10px;
+  color: #ccc;
+  content: "|";
+}
+form .well {
+  background-color: blue;
+}
+.jumbotron {
+  background-color: transparent;
+}
+img {
+	width: 200px;
+}
